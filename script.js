@@ -98,6 +98,26 @@ const questions = [
             { text: 'tuesday' , correct: true},
             { text: 'friday' , correct: false}
         ]
+    },
+    {
+        question: 'whats the name of the developer of this Quiz?',
+        answers: [
+
+            { text: 'Todd', correct: false},
+            { text: 'John', correct: false},
+            { text: 'Mike' , correct: false},
+            { text: 'Faizy' , correct: true}
+        ]
+    },
+    {
+        question: 'Which one of these dog breeds is found in Pakistan',
+        answers: [
+
+            { text: 'Husky', correct: false},
+            { text: 'Rottweiler', correct: false},
+            { text: 'A and GH' , correct: true},
+            { text: 'Golden Retriever' , correct: false}
+        ]
     }
 
  
